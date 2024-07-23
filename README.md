@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @V3rdantWhisper 
 - 👀 I’m interested in Gaming, coding, and cybersecurity.  
 - 🌱 I’m currently learning Pwn and fuzz.
-- 🚂 A pwner of WHU-DAWN / W&M
+- 🚂 A pwner of WHU-DAWN-noname / W&M
 - 📫 How to communicate with me: Personal e-mail: wzhdxtx123@outlook.com
 - 🥖 My blog: [v3rdant](https://v3rdant.cn)
+- 🥇 **My cv** : [v3rdant](https://www.overleaf.com/read/vdxnvznhhrpw#0fb4bf)
 
 
 🐦**Welcome all people with the same interest to interact with me.**
